@@ -12,6 +12,7 @@ info from text. The script therefore can be sued at any layer; Air, S1AP, GTPv2,
 
 when str_input = '5g rrc'
 
+![image](https://user-images.githubusercontent.com/47313728/74648773-28eca200-5133-11ea-9066-7759b9385d1d.png)
 
 
 SIP INVITE
