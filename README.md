@@ -6,7 +6,7 @@ However sometime there could be a need to collect the inforation in a more prese
 show the user-input based info from Exported Packet Dissections availabl in json, txt, and xml etc.
 
 The json can be flattend or normalized with script or Pandas, as an example. However, I simply wrote a Python script to extract
-info from text. The script therefore can be sued at any layer; Air, S1AP, GTPv2, Diameter, SIP etc.
+info from text. The script therefore can be sued at any layer; Air, S1AP, GTPv2, Diameter, SIP etc. formats
 
 SIP INVITE
 
