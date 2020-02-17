@@ -9,7 +9,11 @@ The json can be flattend or normalized with script or Pandas, as an example. How
 info from text. The script therefore can be sued at any layer; Air, S1AP, GTPv2, Diameter, SIP etc.
 
 SIP INVITE
+
 when str_input = 'route uri'
 
 ![image](https://user-images.githubusercontent.com/47313728/74642451-dd80c680-5127-11ea-9d6a-220209d5ce1e.png)
 
+when str_input = 'media type'
+
+![image](https://user-images.githubusercontent.com/47313728/74642788-7c0d2780-5128-11ea-95e3-c89a6c1be52d.png)
