@@ -24,6 +24,12 @@ str_input = 'media type'
 
 ![image](https://user-images.githubusercontent.com/47313728/74642788-7c0d2780-5128-11ea-95e3-c89a6c1be52d.png)
 
+Diameter Cx LIR
+---------------
+str_input = 'public'
+
+![image](https://user-images.githubusercontent.com/47313728/74717074-9573a980-51e4-11ea-9525-219bf8014979.png)
+
 Diameter Cx LIA
 ---------------
 str_input = 'server' 
