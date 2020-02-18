@@ -37,3 +37,9 @@ Diameter Cx LIA
 str_input = 'server' 
 
 ![image](https://user-images.githubusercontent.com/47313728/74715315-0fa22f00-51e1-11ea-8c10-9b0de297a09d.png)
+
+Diameter Sh UDA
+---------------
+str_input = 'ps'
+
+![image](https://user-images.githubusercontent.com/47313728/74729356-2e142480-51f9-11ea-9dc1-dc9c9860c9cd.png)
