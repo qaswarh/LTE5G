@@ -28,4 +28,4 @@ Diameter Cx LIA
 ---------------
 str_input = 'avp' 
 
-![image](https://user-images.githubusercontent.com/47313728/74713790-27c47f00-51de-11ea-91e7-4b859b762b48.png)
+![image](https://user-images.githubusercontent.com/47313728/74715315-0fa22f00-51e1-11ea-8c10-9b0de297a09d.png)
