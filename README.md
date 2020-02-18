@@ -11,7 +11,6 @@ Here are some sample outputs
 
 5G NSAir
 --------
-
 str_input = '5g rrc'
 
 ![image](https://user-images.githubusercontent.com/47313728/74648773-28eca200-5133-11ea-9066-7759b9385d1d.png)
@@ -50,3 +49,8 @@ str_input = '450'
 
 ![image](https://user-images.githubusercontent.com/47313728/74786345-5899c800-5261-11ea-98d1-9d2f9d50a135.png)
 
+Diameter S6a ULA
+----------------
+str_input = 'user-name'
+
+![image](https://user-images.githubusercontent.com/47313728/74788220-fee7cc80-5265-11ea-9975-03d8dc7f5b18.png)
