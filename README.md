@@ -26,6 +26,6 @@ str_input = 'media type'
 
 Diameter Cx LIA
 ---------------
-str_input = 'avp' 
+str_input = 'server' 
 
 ![image](https://user-images.githubusercontent.com/47313728/74715315-0fa22f00-51e1-11ea-8c10-9b0de297a09d.png)
