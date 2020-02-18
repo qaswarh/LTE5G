@@ -23,3 +23,9 @@ str_input = 'route uri'
 str_input = 'media type'
 
 ![image](https://user-images.githubusercontent.com/47313728/74642788-7c0d2780-5128-11ea-95e3-c89a6c1be52d.png)
+
+Diameter Cx LIA
+---------------
+str_input = 'avp' 
+
+![image](https://user-images.githubusercontent.com/47313728/74713790-27c47f00-51de-11ea-91e7-4b859b762b48.png)
