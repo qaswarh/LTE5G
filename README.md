@@ -43,3 +43,10 @@ Diameter Sh UDA
 str_input = 'ps'
 
 ![image](https://user-images.githubusercontent.com/47313728/74729356-2e142480-51f9-11ea-9dc1-dc9c9860c9cd.png)
+
+Diameter Rx AAR
+---------------
+str_input = '450'
+
+![image](https://user-images.githubusercontent.com/47313728/74786345-5899c800-5261-11ea-98d1-9d2f9d50a135.png)
+
