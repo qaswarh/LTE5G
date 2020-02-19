@@ -61,5 +61,6 @@ str_input = 'user-name'
 
 Diameter GxRAR
 --------------
-str_input = '450'
+str_input = '278'
 
+![image](https://user-images.githubusercontent.com/47313728/74814451-25305b00-52ac-11ea-9fa3-51824871c436.png)
