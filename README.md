@@ -73,3 +73,8 @@ str_input = '278'
 
 Diameter Gx CCR-U
 -----------------
+str_input = '501'
+
+![image](https://user-images.githubusercontent.com/47313728/74818420-7728af00-52b3-11ea-8d29-b17b31f147be.png)
+
+
