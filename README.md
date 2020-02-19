@@ -58,3 +58,8 @@ Diameter S6a ULA
 str_input = 'user-name'
 
 ![image](https://user-images.githubusercontent.com/47313728/74788220-fee7cc80-5265-11ea-9975-03d8dc7f5b18.png)
+
+Diameter GxRAR
+--------------
+str_input = '450'
+
