@@ -59,14 +59,17 @@ str_input = 'user-name'
 
 ![image](https://user-images.githubusercontent.com/47313728/74788220-fee7cc80-5265-11ea-9975-03d8dc7f5b18.png)
 
-Diameter GxRAR
+Diameter Gx RAR
 --------------
 str_input = '278'
 
 ![image](https://user-images.githubusercontent.com/47313728/74816121-5d856880-52af-11ea-9a5f-b145193a6d4b.png)
 
-Diameter GxRAA
+Diameter Gx RAA
 --------------
 str_input = '278'
 
 ![image](https://user-images.githubusercontent.com/47313728/74814451-25305b00-52ac-11ea-9fa3-51824871c436.png)
+
+Diameter Gx CCR-U
+-----------------
