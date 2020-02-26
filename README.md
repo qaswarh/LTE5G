@@ -17,6 +17,8 @@ str_input = '5g rrc'
 
 ![image](https://user-images.githubusercontent.com/47313728/74648773-28eca200-5133-11ea-9066-7759b9385d1d.png)
 
+str_input = 'gnbaddition'
+
 ![image](https://user-images.githubusercontent.com/47313728/75330976-d13aee80-5836-11ea-9b6a-b612f4749748.png)
 
 S1AP id-E-RABSetup (5)
